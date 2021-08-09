@@ -14,7 +14,7 @@ const totalSum = (...params) => {
   return total;
 
   // by using reduce
-  // const total = params.reduce((cur, total) => total + cur, 0);
+  // const total = params.reduce((cur, total) => cur + total, 0);
   // return total;
 };
 
